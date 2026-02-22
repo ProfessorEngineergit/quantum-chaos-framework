@@ -103,7 +103,9 @@ quantum_chaos_framework/
 ### SYK Model
 The Sachdev-Ye-Kitaev model describes N Majorana fermions with random all-to-all 4-body interactions:
 
-$$H_{SYK} = \sum_{i<j<k<l} J_{ijkl} \chi_i \chi_j \chi_k \chi_l$$
+![SYK Hamiltonian](https://latex.codecogs.com/svg.image?H_{SYK}%20=%20\sum_{i<j<k<l}%20J_{ijkl}%20\chi_i%20\chi_j%20\chi_k%20\chi_l)
+
+
 
 Key properties:
 - Maximally chaotic (saturates chaos bound λ ≤ 2πT/ℏ)
