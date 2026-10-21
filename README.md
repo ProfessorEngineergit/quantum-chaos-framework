@@ -5,6 +5,8 @@ A Python framework for studying quantum chaos and information scrambling in many
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+This is a fork of https://github.com/rasidi3112/quantum-chaos-framework. Upstream authorship and license notices are retained.
+
 ## Overview
 
 This framework provides tools for:
@@ -42,7 +44,7 @@ This framework provides tools for:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/quantum-chaos-framework.git
+git clone https://github.com/ProfessorEngineergit/quantum-chaos-framework.git
 cd quantum-chaos-framework
 pip install -r requirements.txt
 ```
